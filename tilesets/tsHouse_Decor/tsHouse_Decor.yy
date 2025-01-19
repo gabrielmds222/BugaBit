@@ -1,14 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tsHouse_Tiles",
+  "%Name":"tsHouse_Decor",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tsHouse_Tiles",
-  "out_columns":13,
+  "name":"tsHouse_Decor",
+  "out_columns":15,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"sHouse_Tiles",
-    "path":"sprites/sHouse_Tiles/sHouse_Tiles.yy",
+    "name":"sHouse_Decor_Tiles",
+    "path":"sprites/sHouse_Decor_Tiles/sHouse_Decor_Tiles.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":162,
+  "tile_count":234,
 }

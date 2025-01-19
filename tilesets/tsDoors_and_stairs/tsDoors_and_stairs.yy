@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tsHouse_Tiles",
+  "%Name":"tsDoors_and_stairs",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tsHouse_Tiles",
+  "name":"tsDoors_and_stairs",
   "out_columns":13,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"sHouse_Tiles",
-    "path":"sprites/sHouse_Tiles/sHouse_Tiles.yy",
+    "name":"sDoors_and_stairs_Tiles",
+    "path":"sprites/sDoors_and_stairs_Tiles/sDoors_and_stairs_Tiles.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":162,
+  "tile_count":180,
 }
